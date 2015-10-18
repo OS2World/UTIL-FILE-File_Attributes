@@ -1,0 +1,2 @@
+CL /c fa.c
+LINK fa+setargv /NOE /EXEPACK /PACKCODE /PMTYPE:VIO;
